@@ -1,2 +1,4 @@
-#define SECRET_SSID <WIFI_NAME>
-#define SECRET_PASS <PASSWORD>
+#define SECRET_SSID "bauhaus"
+#define SECRET_PASS "welcome2japan"
+#define SECRET_MQTT_USER "public"
+#define SECRET_MQTT_PASS "public"
